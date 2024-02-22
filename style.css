@@ -20,7 +20,11 @@ h1 {
     text-shadow: #020216 15px 15px 20px;
     color: #00d4ff;
     margin: 0;
+}
 
+footer p{
+    color: #fff;
+    font-size: 1.4em;
 }
 
 #calculator {
